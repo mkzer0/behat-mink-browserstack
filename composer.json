@@ -1,5 +1,5 @@
 {
-    "name":         "nulpunkt/behat-mink-browserstack",
+    "name":         "mkzer0/behat-mink-browserstack",
     "description":  "A Browserstack aware feature context for Behat",
     "keywords":     ["selenium", "webdriver", "javascript", "ajax", "testing", "browser"],
     "license":      "MIT",
